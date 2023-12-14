@@ -1,6 +1,6 @@
 # Dockerized-Django-App
 
-#Description
+# Description
 This repository is focussed on delpoying a django application in a container(Docker). The website consists of two basic static webpages as it focussed more on dockerizing the application rather than building the website and giving it a purpose.
 
 #Setup
